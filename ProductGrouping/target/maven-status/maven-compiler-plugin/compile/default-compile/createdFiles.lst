@@ -1,0 +1,4 @@
+com\example\ProductGrouping\TestProjectApplication.class
+com\example\ProductGrouping\Repository\ProductGroupRepository.class
+com\example\ProductGrouping\Model\ProductGroup.class
+com\example\ProductGrouping\Service\ProductGroupingService.class
